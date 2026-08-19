@@ -1,4 +1,6 @@
 # RPL-Team
-percobaan belajar siswa
-- mencoba mengunakan git
-- Dengan VCS GITHUB
+Materi Web - KI
+- Pembuatan akun Likendl
+- Pengenalan VCS Git 
+- Perbedaan Git dan Github
+- Belajar Menggunakan Github
